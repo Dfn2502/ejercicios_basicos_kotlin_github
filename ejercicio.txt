@@ -15,13 +15,13 @@ fun main() {
     val nombre: String = "Pedro";
     val edad: Int = 19;
     val es_Hombre: Boolean = true;
-    val numeros: IntArray = intArrayof(1, 2);
-    val ingreso_mensual = Double = 20.3;
+    val numeros: IntArray = intArrayOf(1, 2);
+    val ingreso_mensual: Double = 20.3;
 
     val nombre = "Pablo";
     val apellido = "Perez";
     val edad =  20;
     val es_Hombre = true;
-    val numeros: intArrayof(1, 2);
+    val numeros: intArrayOf(1, 2);
     val ingreso_mensual = 20.3;
 }
