@@ -2,8 +2,8 @@ fun main() {
     var nombre: String = "Pedro";
     var edad: Int = 19;
     var es_Hombre: Boolean = true;
-    var numeros: IntArray = intArrayof(1, 2);
-    var ingreso_mensual = Double = 20.3;
+    var numeros: Array<Int> = arrayOf(1, 2, 3);
+    var ingreso_mensual: Double = 20.3;
 
     var nombre = "Pablo";
     var apellido = "Perez";
